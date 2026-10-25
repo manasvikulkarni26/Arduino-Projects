@@ -57,7 +57,7 @@ An Arduino-based prototype that uses an ultrasonic sensor to detect nearby objec
 
 I'm also documenting ESP32-based embedded systems projects in a separate repository.
 
-[Explore ESP32 Projects](https://github.com/meghan454/ESP32-Projects)
+[Explore ESP32 Projects]((https://github.com/manasvikulkarni26/ESP32-Projects))
 
 ## About This Repository
 
